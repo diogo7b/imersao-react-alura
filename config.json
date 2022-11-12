@@ -1,7 +1,7 @@
 {
     "name": "Mario Souto (DevSoutinho)",
     "job": "Lead Software Engineer",
-    "bg": "",
+    "bg": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "github": "omariosouto",
     "favorites": [
         {}
@@ -12,11 +12,6 @@
                 "title": "Frostpunk - Neve e Steak tartare",
                 "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
                 "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
-            },
-            {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-                "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
             },
             {
                 "title": "Gas Station Simulator - 8 dias sem dormir!",
@@ -37,16 +32,6 @@
                 "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
                 "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
                 "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
-            },
-            {
-                "title": "We Were Here Together - Os Enigmas deste Mundo",
-                "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
-                "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
-            },
-            {
-                "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
-                "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-                "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
             }
         ],
         "front-end": [
@@ -79,21 +64,6 @@
                 "title": "Como Foi Programado um App Que Faz Mágica",
                 "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
                 "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
-            },
-            {
-                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
-                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
-                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
-            },
-            {
-                "title": "5 Erros Históricos do CSS",
-                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
-                "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
-            },
-            {
-                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
-                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
-                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
             }
         ],
         "back-end": [
@@ -116,21 +86,6 @@
                 "title": "O que é Machine Learning? #HipstersPontoTube",
                 "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
                 "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
-            },
-            {
-                "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
-                "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
-            },
-            {
-                "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
-                "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
-            },
-            {
-                "title": "O que é o C#? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
-                "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
             }
         ]
     }
